@@ -7,4 +7,5 @@ A simple multi-page React app using React Router.
 # What I Learned
 
 * React routing.
-* Handling multiple page app. 
+* Handling multiple page app.
+* Using a VIM plugin, may regret. 
