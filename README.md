@@ -8,4 +8,5 @@ A simple multi-page React app using React Router.
 
 * React routing.
 * Handling multiple page app.
-* Using a VIM plugin, may regret. 
+* Using a VIM plugin, may regret.
+* Practicing nested routes. 
