@@ -1,6 +1,13 @@
+import { Route } from 'react-router-dom';
+
 const Welcome = () => {
   return (
-  <h1>Welcome here!</h1>
+    <section>
+      <h1>Welcome here!</h1>
+      <Route path="/welcome/new-user">
+        <p>Hello, new user.</p>
+      </Route>
+    </section>
   )
 }
 
