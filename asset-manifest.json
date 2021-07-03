@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/multi_page_app_react/static/css/main.378af333.chunk.css",
-    "main.js": "/multi_page_app_react/static/js/main.44033c7d.chunk.js",
-    "main.js.map": "/multi_page_app_react/static/js/main.44033c7d.chunk.js.map",
+    "main.js": "/multi_page_app_react/static/js/main.1b11e116.chunk.js",
+    "main.js.map": "/multi_page_app_react/static/js/main.1b11e116.chunk.js.map",
     "runtime-main.js": "/multi_page_app_react/static/js/runtime-main.e6ce82c4.js",
     "runtime-main.js.map": "/multi_page_app_react/static/js/runtime-main.e6ce82c4.js.map",
-    "static/js/2.47743b48.chunk.js": "/multi_page_app_react/static/js/2.47743b48.chunk.js",
-    "static/js/2.47743b48.chunk.js.map": "/multi_page_app_react/static/js/2.47743b48.chunk.js.map",
+    "static/js/2.7102cc7c.chunk.js": "/multi_page_app_react/static/js/2.7102cc7c.chunk.js",
+    "static/js/2.7102cc7c.chunk.js.map": "/multi_page_app_react/static/js/2.7102cc7c.chunk.js.map",
     "index.html": "/multi_page_app_react/index.html",
     "static/css/main.378af333.chunk.css.map": "/multi_page_app_react/static/css/main.378af333.chunk.css.map",
-    "static/js/2.47743b48.chunk.js.LICENSE.txt": "/multi_page_app_react/static/js/2.47743b48.chunk.js.LICENSE.txt"
+    "static/js/2.7102cc7c.chunk.js.LICENSE.txt": "/multi_page_app_react/static/js/2.7102cc7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e6ce82c4.js",
-    "static/js/2.47743b48.chunk.js",
+    "static/js/2.7102cc7c.chunk.js",
     "static/css/main.378af333.chunk.css",
-    "static/js/main.44033c7d.chunk.js"
+    "static/js/main.1b11e116.chunk.js"
   ]
 }
